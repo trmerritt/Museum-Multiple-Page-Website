@@ -1,0 +1,388 @@
+body {
+  margin-top: 24px;
+  font-family: Geneva, Tahoma, sans-serif;
+background-color: #EFEBE9;
+}
+
+.heading {
+  font-size: 18pt;
+  text-align: center;
+color: #4E342E;
+}
+
+.sub-heading {
+  font-size: 16pt;
+  text-align: center;
+}
+
+.navigation {
+  font-size: 13pt;
+  text-align: left;
+padding: 30px;
+}
+
+li a {
+text-decoration: none;
+color: #4E342E;
+}
+
+.nav-item {
+  list-style: none;
+  display: inline;
+}
+
+#about-us {
+  position: absolute;
+  left: 200px;
+margin-left: 40px;
+padding: 20px;
+  background-color: #BCAAA4;
+width: 500px;
+  text-align: left;
+  font-size: 14px;
+top: 100px;
+}
+
+#landscape-pic {
+  position: absolute;
+  left: 650px;
+  top: 300px;
+}
+
+img {
+width: 600px;
+}
+
+
+#portrait-pic {
+  position: absolute;
+  left: 30px;
+  top: 600px;
+}
+
+#text {
+position: absolute;
+left: 700px;
+top: 800px;
+width:540px;
+font-size: 14px;
+text-align: left;
+}
+
+#pros {
+position: absolute;
+left: 720px;
+top: 950px;
+background-color: #BCAAA4; 
+font-size: 16px;
+text-align: left;
+width: 500px;
+}
+
+#pros li {
+padding-top: 12px;
+}
+
+#about-us {
+position: absolute;
+left: 24px;
+top: 300px;
+}
+
+#our-history {
+position: absolute;
+top: 1500px;
+padding: 30px;
+}
+
+footer {
+position: absolute;
+top: 1900px;
+color: #4E342E;
+font-size: 12px;
+padding-left: 30px;
+}
+
+a:hover {
+background-color: #616161;
+}
+
+a:visited {
+color: #90CAF9;
+}
+
+.gallery {
+position: absolute;
+left: 265px;
+top: 350px; 
+}
+
+.gallery-image {
+width: 800px;
+height: 400px;
+object-fit: cover;
+}
+
+.gallerytitle {
+position: absolute;
+left: 600px;
+top: 750px;
+font-size: 15px;
+color: #4E342E
+}
+
+.slideprevious {
+position: absolute;
+left: 500px;
+top: 800px;
+font-size: 12px;
+}
+
+.slidenext {
+position: absolute;
+right: 400px;
+top: 800px; 
+font-size: 12px;
+}
+
+
+body {
+  margin-top: 24px;
+  font-family: Geneva, Tahoma, sans-serif;
+background-color: #EFEBE9;
+}
+
+.heading {
+  font-size: 18pt;
+  text-align: center;
+color: #4E342E;
+}
+
+.sub-heading {
+  font-size: 16pt;
+  text-align: center;
+}
+
+.navigation {
+  font-size: 13pt;
+  text-align: left;
+padding: 30px;
+}
+
+li a {
+text-decoration: none;
+color: #4E342E;
+}
+
+.nav-item {
+  list-style: none;
+  display: inline;
+}
+
+#about-us {
+  position: absolute;
+  left: 200px;
+margin-left: 40px;
+padding: 20px;
+  background-color: #BCAAA4;
+width: 500px;
+  text-align: left;
+  font-size: 14px;
+top: 100px;
+}
+
+#landscape-pic {
+  position: absolute;
+  left: 650px;
+  top: 300px;
+}
+
+img {
+width: 600px;
+}
+
+
+#portrait-pic {
+  position: absolute;
+  left: 30px;
+  top: 600px;
+}
+
+#text {
+position: absolute;
+left: 700px;
+top: 800px;
+width:540px;
+font-size: 14px;
+text-align: left;
+}
+
+#pros {
+position: absolute;
+left: 720px;
+top: 950px;
+background-color: #BCAAA4; 
+font-size: 16px;
+text-align: left;
+width: 500px;
+}
+
+#pros li {
+padding-top: 12px;
+}
+
+#about-us {
+position: absolute;
+left: 24px;
+top: 300px;
+}
+
+#our-history {
+position: absolute;
+top: 1500px;
+padding: 30px;
+}
+
+footer {
+position: absolute;
+top: 1900px;
+color: #4E342E;
+font-size: 12px;
+padding-left: 30px;
+}
+
+a:hover {
+background-color: #616161;
+}
+
+a:visited {
+color: #90CAF9;
+}
+
+.gallery {
+position: absolute;
+left: 265px;
+top: 350px; 
+}
+
+.gallery-image {
+width: 800px;
+height: 400px;
+object-fit: cover;
+}
+
+.gallerytitle {
+position: absolute;
+left: 600px;
+top: 750px;
+font-size: 15px;
+color: #4E342E
+}
+
+.slideprevious {
+position: absolute;
+left: 500px;
+top: 800px;
+font-size: 12px;
+}
+
+.slidenext {
+position: absolute;
+right: 400px;
+top: 800px; 
+font-size: 12px;
+}
+
+
+h3 {
+  position: absolute;
+  left: 500px;
+  top: 300px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #4E342E;
+}
+ 
+ span.underline {
+  text-decoration:underline;
+}
+ 
+ #weekly {
+  position: absolute;
+  left: 450px;
+  top: 420px;
+  font-size: 13px;
+}
+ 
+ #weekends {
+  position: absolute;
+  left: 450px;
+  top: 520px;
+  font-size: 13px; 
+}           
+ 
+ #refreshments {
+  position: absolute;
+  left: 450px;
+  top: 640px;
+  font-size: 13px;
+}
+
+ #details {
+  position: absolute;
+  left: 450px;
+  top: 720px;
+  font-size: 13px; 
+}
+
+#all-contact-info {
+  font-size: 13px;
+}
+
+textarea {
+  margin: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 0px;
+  text-align: center;
+  background-color: #E3F2FD;
+}
+
+#text-area {
+  position: absolute;
+  top: 600px;
+  padding: 10px;
+}
+
+#contact-header {
+  text-align: center;
+  color: #4E342E;
+}
+
+#contact-details {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+
+#submit {
+  position: absolute;
+  top: 730px;
+  left: 450px;
+  background-color: #BCAAA4;
+  padding: 4px;
+  width: 60px;
+}
+
+#reset {
+  position: absolute;
+  top: 730px;
+  left: 600px;
+  background-color: #BCAAA4;
+  padding: 4px;
+  width: 60px;
+}
+
+hr {
+  border: 1px solid gray;
+}
